@@ -4,6 +4,8 @@ Welcome to **Developer Tools Hub** — a categorized collection of modern develo
 
 ## 🚀 Project Info
 
+![Screenshot 2025-06-25 152740](https://github.com/user-attachments/assets/449cd471-2bb6-43b8-9f27-f1856ccb98ec)
+
 Follow these steps to get started with the project:
 
 ```sh
