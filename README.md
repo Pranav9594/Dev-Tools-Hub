@@ -20,6 +20,7 @@ npm install
 
 # ⚡ Step 4: Start the development server
 npm run dev
+
 🛠️ Technologies Used
 This project is built with:
 
@@ -32,6 +33,7 @@ This project is built with:
 🎨 Tailwind CSS — Utility-first CSS framework
 
 🧩 shadcn/ui — Accessible and customizable UI components
+
 
 📂 Categories Covered
 Organized into the most essential development tool categories:
@@ -66,8 +68,11 @@ Organized into the most essential development tool categories:
 
 🌐 Browser Developer Tools
 
+
 💡 Purpose
 To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
+
+
 
 📄 License
 This project is licensed under the MIT License.
