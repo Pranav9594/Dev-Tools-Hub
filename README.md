@@ -75,4 +75,4 @@ To empower developers by offering a categorized and easy-to-navigate collection 
 
 📄 License
 This project is licensed under the MIT License.
----
+----
