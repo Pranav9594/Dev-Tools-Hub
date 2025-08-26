@@ -152,40 +152,8 @@ This project is built with:
 📂 Categories Covered
 Organized into the most essential development tool categories:
 
-🖼️ Frontend Frameworks & Libraries
-
-🎨 CSS Frameworks & Preprocessors
-
-🔙 Backend Frameworks
-
-🗃️ Databases
-
-🧑‍💻 Code Editors & IDEs
 
 🔁 Version Control
 
 📦 Package Managers
 
-🏗️ Build Tools & Bundlers
-
-🧪 Testing Frameworks
-
-🧠 Design & Prototyping Tools
-
-🚀 DevOps & Deployment
-
-🔌 API Development & Testing
-
-📈 Performance & Analytics
-
-📰 Content Management Systems (CMS)
-
-🌐 Browser Developer Tools
-
-
-💡 Purpose
-To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
----
-💡 Purpose
-To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
----
