@@ -126,44 +126,6 @@ Welcome to **Developer Tools Hub** — a categorized collection of modern develo
 Follow these steps to get started with the project:
 
 ```sh
-# 🔁 Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
-
-# 📂 Step 2: Navigate to the project directory
-cd <YOUR_PROJECT_NAME>
-
-# 📦 Step 3: Install the necessary dependencies
-npm install
-
-# ⚡ Step 4: Start the development server
-npm run dev
-
-🛠️ Technologies Used
-This project is built with:
-
-⚡ Vite — Next-generation frontend tooling
-
-💙 React — Component-based UI library
-
-🔤 TypeScript — Strongly typed JavaScript
-
-🎨 Tailwind CSS — Utility-first CSS framework
-
-🧩 shadcn/ui — Accessible and customizable UI components
-
-
-📂 Categories Covered
-Organized into the most essential development tool categories:
-
-🖼️ Frontend Frameworks & Libraries
-
-🎨 CSS Frameworks & Preprocessors
-
-🔙 Backend Frameworks
-
-🗃️ Databases
-
-🧑‍💻 Code Editors & IDEs
 
 🔁 Version Control
 
