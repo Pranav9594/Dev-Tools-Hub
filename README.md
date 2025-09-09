@@ -90,12 +90,7 @@ To empower developers by offering a categorized and easy-to-navigate collection 
 
 
 
-🧠 Design & Prototyping Tools
 
-🌐 Browser Developer Tools
-
-
-💡 Purpose
 To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
 ---
 💡 Purpose
