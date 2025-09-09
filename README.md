@@ -92,14 +92,6 @@ To empower developers by offering a categorized and easy-to-navigate collection 
 
 🧠 Design & Prototyping Tools
 
-🚀 DevOps & Deployment
-
-🔌 API Development & Testing
-
-📈 Performance & Analytics
-
-📰 Content Management Systems (CMS)
-
 🌐 Browser Developer Tools
 
 
