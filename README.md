@@ -72,27 +72,3 @@ Organized into the most essential development tool categories:
 💡 Purpose
 To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
 ---
-💡 Purpose
-To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
----
-💡 Purpose
-To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
----
