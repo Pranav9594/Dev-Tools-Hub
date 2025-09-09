@@ -75,3 +75,37 @@ To empower developers by offering a categorized and easy-to-navigate collection 
 💡 Purpose
 To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+🧠 Design & Prototyping Tools
+
+🚀 DevOps & Deployment
+
+🔌 API Development & Testing
+
+📈 Performance & Analytics
+
+📰 Content Management Systems (CMS)
+
+🌐 Browser Developer Tools
+
+
+💡 Purpose
+To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
+---
+💡 Purpose
+To empower developers by offering a categorized and easy-to-navigate collection of modern development tools — all in one place.
+---
