@@ -1,4 +1,4 @@
-g## 🧰 Developer Tools Hub
+gg## 🧰 Developer Tools Hub
 
 Welcome to **Developer Tools Hub** — a categorized collection of modern development technologies. This hub empowers developers to explore, learn, and build with the right tools across the full software development stack.
 
